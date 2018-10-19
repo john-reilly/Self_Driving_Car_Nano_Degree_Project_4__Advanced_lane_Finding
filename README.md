@@ -1,39 +1,51 @@
-## Advanced Lane Finding
-[![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
+# **Presentation Video**
+ **I present the whole project, notebook, files and outputs in a few minutes**
+
+ **Right Click the link to download the video.** [ Video Link](https://raw.githubusercontent.com/john-reilly/Self_Driving_Car_Nano_Degree_Project_1_Finding_Lane_Lines/master/output_video/out11.mp4)
+
+# **Project Report**
+**My Original Report in pdf format as submitted to Udacity for review.**
+**I refer to the report in the video, its 25 pages long with still images of the videos.**
+**Left Click the link to view online or Right Click the link to download a pdf.** [ Report Link](https://github.com/john-reilly/Self_Driving_Car_Nano_Degree_Project_4__Advanced_lane_Finding/blob/master/Project%204%20Second%20Submission%20John%20Reilly.pdf)
 
 
-In this project, your goal is to write a software pipeline to identify the lane boundaries in a video, but the main output or product we want you to create is a detailed writeup of the project.  Check out the [writeup template](https://github.com/udacity/CarND-Advanced-Lane-Lines/blob/master/writeup_template.md) for this project and use it as a starting point for creating your own writeup.  
+# **Project Feedback**
+**Below are 2 screenshots showing the feedback from the Udacity reviewer**
 
-Creating a great writeup:
+
+<img src="/Project_1_Feedback_1.PNG" width="900" alt="Feedback screenshot 1" />
+
+
 ---
-A great writeup should include the rubric points as well as your description of how you addressed each point.  You should include a detailed description of the code used in each step (with line-number references and code snippets where necessary), and links to other supporting documents or external references.  You should include images in your writeup to demonstrate how your code works with examples.  
 
-All that said, please be concise!  We're not looking for you to write a book here, just a brief description of how you passed each rubric point, and references to the relevant code :). 
 
-You're not required to use markdown for your writeup.  If you use another method please just submit a pdf of your writeup.
+<img src="/Project_1_Feedback_2.PNG" width="900" alt="Feedback screenshot 2" />
 
-The Project
----
+# If you want to run the code please refer to the links below
 
-The goals / steps of this project are the following:
 
-* Compute the camera calibration matrix and distortion coefficients given a set of chessboard images.
-* Apply a distortion correction to raw images.
-* Use color transforms, gradients, etc., to create a thresholded binary image.
-* Apply a perspective transform to rectify binary image ("birds-eye view").
-* Detect lane pixels and fit to find the lane boundary.
-* Determine the curvature of the lane and vehicle position with respect to center.
-* Warp the detected lane boundaries back onto the original image.
-* Output visual display of the lane boundaries and numerical estimation of lane curvature and vehicle position.
+The program is in [Python 3](https://www.python.org/) running in a [Jupyter Notebook](http://jupyter.org/)
 
-The images for camera calibration are stored in the folder called `camera_cal`.  The images in `test_images` are for testing your pipeline on single frames.  If you want to extract more test images from the videos, you can simply use an image writing method like `cv2.imwrite()`, i.e., you can read the video in frame by frame as usual, and for frames you want to save for later you can write to an image file.  
 
-To help the reviewer examine your work, please save examples of the output from each stage of your pipeline in the folder called `output_images`, and include a description in your writeup for the project of what each image shows.    The video called `project_video.mp4` is the video your pipeline should work well on.  
+You can use the below conda environment to make sure all dependencies etc are present.
 
-The `challenge_video.mp4` video is an extra (and optional) challenge for you if you want to test your pipeline under somewhat trickier conditions.  The `harder_challenge.mp4` video is another optional challenge and is brutal!
+Clone my repo to get all the files and run the notebook
 
-If you're feeling ambitious (again, totally optional though), don't stop there!  We encourage you to go out and take video of your own, calibrate your camera and show us how you would implement this project from scratch!
+or
 
-## How to write a README
-A well written README file can enhance your project and portfolio.  Develop your abilities to create professional README files by completing [this free course](https://www.udacity.com/course/writing-readmes--ud777).
+Clone the Udacity project repo below, download my notebook and run in the same folder 
 
+
+Udacity default [readme file]( https://github.com/john-reilly/Self_Driving_Car_Nano_Degree_Project_1_Finding_Lane_Lines/blob/master/Udacitys_README.md), provides an overview and many links 
+
+Udacity Project [repo](https://github.com/udacity/CarND-LaneLines-P1), students begin by cloning this repo and that gives them the images, video and sample code to get started.
+
+Udacity provided [code](https://github.com/udacity/CarND-LaneLines-P1/blob/master/P1.ipynb), this is a link to the page in the project repo that contains the basic code that is built upon by the student
+
+Udacity environment [CarND Term1 Starter Kit](https://github.com/udacity/CarND-Term1-Starter-Kit/blob/master/README.md), a conda environment to ensure the code runs correctly 
+
+Udacity suggested [writeup template](https://github.com/udacity/CarND-LaneLines-P1/blob/master/writeup_template.md), a suggestion for how the notebook should be presented
+
+Udacity [project rubric](https://review.udacity.com/#!/rubrics/322/view), to explain how it is graded.
+
+Udacity homepage for the course [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
