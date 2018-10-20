@@ -13,13 +13,58 @@
 **Below are 2 screenshots showing the feedback from the Udacity reviewer**
 
 
-<img src="/Project_1_Feedback_1.PNG" width="900" alt="Feedback screenshot 1" />
-
+<img src="/Project_4_Feedback_1.PNG" width="900" alt="Feedback screenshot 1" />
 
 ---
 
+<img src="/Project_4_Feedback_2.PNG" width="900" alt="Feedback screenshot 2" />
 
-<img src="/Project_1_Feedback_2.PNG" width="900" alt="Feedback screenshot 2" />
+---
+
+<img src="/Project_4_Feedback_3.PNG" width="900" alt="Feedback screenshot 3" />
+
+---
+
+<img src="/Project_4_Feedback_4.PNG" width="900" alt="Feedback screenshot 4" />
+
+---
+
+<img src="/Project_4_Feedback_5.PNG" width="900" alt="Feedback screenshot 5" />
+
+---
+
+<img src="/Project_4_Feedback_6.PNG" width="900" alt="Feedback screenshot 6" />
+
+---
+
+<img src="/Project_4_Feedback_7.PNG" width="900" alt="Feedback screenshot 7" />
+
+---
+
+**_After Feedback_**
+
+<img src="/Project_4_Feedback_8_Resubmission.PNG" width="900" alt="Feedback screenshot 8" />
+
+---
+
+<img src="/Project_4_Feedback_9_Resubmission.PNG" width="900" alt="Feedback screenshot 9" />
+
+---
+
+<img src="/Project_4_Feedback_10_Resubmission.PNG" width="900" alt="Feedback screenshot 10" />
+
+---
+
+<img src="/Project_4_Feedback_11_Resubmission.PNG" width="900" alt="Feedback screenshot 11" />
+
+---
+
+<img src="/Project_4_Feedback_12_Resubmission.PNG" width="900" alt="Feedback screenshot 12" />
+
+---
+
+<img src="/Project_4_Feedback_13_Resubmission.PNG" width="900" alt="Feedback screenshot 13" />
+
 
 # If you want to run the code please refer to the links below
 
