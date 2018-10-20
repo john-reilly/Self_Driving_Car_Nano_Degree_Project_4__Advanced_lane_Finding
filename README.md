@@ -10,7 +10,8 @@
 
 
 # **Project Feedback**
-**Below are 2 screenshots showing the feedback from the Udacity reviewer**
+**Below are some screenshots showing the feedback from the Udacity reviewer**
+**Before and after feedback**
 
 
 <img src="/Project_4_Feedback_1.PNG" width="900" alt="Feedback screenshot 1" />
@@ -41,7 +42,7 @@
 
 ---
 
-**_After Feedback_**
+##**_After Feedback_**
 
 <img src="/Project_4_Feedback_8_Resubmission.PNG" width="900" alt="Feedback screenshot 8" />
 
